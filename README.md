@@ -1,6 +1,6 @@
 This repository contains the links to all the codes that I wrote for my 100 days of code challenge. 
 
-### [1. Brainfuck Interpreter](https://github.com/itsdennian/Brainfuck-Interpreter) Day (1 - )
+### [1. Brainfuck Interpreter](https://github.com/itsdennian/Brainfuck-Interpreter) Day (1 - 3)
 This is my attempt to learn Golang and its various standard libraries by building a basic interpreter for Brainfuck.
 
 <details>
@@ -16,5 +16,10 @@ This is my attempt to learn Golang and its various standard libraries by buildin
 <ul>
 <li>Implemented function to eliminate unwanted characters and spaces</li>
 <li>Started off with the output generation function</li>
+</ul>
+
+<b>Day 3</b>
+<ul>
+<li>Completed with the interpreter</li>
 </ul>
 </details>
