@@ -23,3 +23,16 @@ This is my attempt to learn Golang and its various standard libraries by buildin
 <li>Completed with the interpreter</li>
 </ul>
 </details>
+
+### [2. Boilerplate for Go](https://github.com/itsdennian/boilerplate-for-go) Day (4 - )
+A basic boilerplate generator for Go lang, implemented in go lang
+
+<details>
+<summary>Day wise breakdown</summary>
+
+<b>Day 4</b>
+<ul>
+<li>Did the command line interface and a lot more learning about how strings operate in Go</li>
+</ul>
+
+</details>
