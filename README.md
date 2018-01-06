@@ -35,4 +35,9 @@ A basic boilerplate generator for Go lang, implemented in go lang
 <li>Did the command line interface and a lot more learning about how strings operate in Go</li>
 </ul>
 
+<b>Day 5</b>
+<ul>
+<li>Not much of progress today. Learning how Go interacts with Terminal commands. Still figuring out how to execute a pipe function in Go.</li>
+</ul>
+
 </details>
