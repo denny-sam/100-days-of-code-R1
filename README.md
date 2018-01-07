@@ -40,4 +40,11 @@ A basic boilerplate generator for Go lang, implemented in go lang
 <li>Not much of progress today. Learning how Go interacts with Terminal commands. Still figuring out how to execute a pipe function in Go.</li>
 </ul>
 
+<b>Day 6</b>
+<ul>
+<li>Learnt how to make Go interact with Bash effectively.</li>
+<li>Explored Go's implementation of Strings and 'characters'</li>
+<li>Realised all the languages I have worked with so far were infatuation based. True love just happened!</li>
+</ul>
+
 </details>
