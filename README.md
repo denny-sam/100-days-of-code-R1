@@ -24,7 +24,7 @@ This is my attempt to learn Golang and its various standard libraries by buildin
 </ul>
 </details>
 
-### [2. Boilerplate for Go](https://github.com/itsdennian/boilerplate-for-go) Day (4 - )
+### [2. Boilerplate for Go](https://github.com/itsdennian/boilerplate-for-go) Day (4 - 7)
 A basic boilerplate generator for Go lang, implemented in go lang
 
 <details>
@@ -45,6 +45,11 @@ A basic boilerplate generator for Go lang, implemented in go lang
 <li>Learnt how to make Go interact with Bash effectively.</li>
 <li>Explored Go's implementation of Strings and 'characters'</li>
 <li>Realised all the languages I have worked with so far were infatuation based. True love just happened!</li>
+</ul>
+
+<b>Day 7</b>
+<ul>
+<li>Learnt to implement a basic server using Golang</li>
 </ul>
 
 </details>
