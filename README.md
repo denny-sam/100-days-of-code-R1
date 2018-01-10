@@ -66,6 +66,12 @@ This is an unofficial API implementation of Urban Dictionary implemented in Go.
 <li>Learnt about package exporting and various formatting and output options in Go</li>
 </ul>
 
+<b>Day 9</b>
+<ul>
+<li>Learnt to read through HTML and find tags</li>
+<li>Implemented the text extraction from the code to display various words and their meanings.</li>
+</ul>
+
 
 </details>
 
