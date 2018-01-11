@@ -72,6 +72,12 @@ This is an unofficial API implementation of Urban Dictionary implemented in Go.
 <li>Implemented the text extraction from the code to display various words and their meanings.</li>
 </ul>
 
+<b>Day 10</b>
+<ul>
+<li>Extracted data and learnt to create JSON objects</li>
+<li>Partially implemented the return struct.</li>
+</ul>
+
 
 </details>
 
