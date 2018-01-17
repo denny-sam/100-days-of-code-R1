@@ -78,6 +78,11 @@ This is an unofficial API implementation of Urban Dictionary implemented in Go.
 <li>Partially implemented the return struct.</li>
 </ul>
 
+<b>Day 11</b>
+<ul>
+<li>In the process of creating the JSON more usable</li>
+</ul>
+
 
 </details>
 
