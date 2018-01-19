@@ -54,7 +54,7 @@ A basic boilerplate generator for Go lang, implemented in go lang
 
 </details>
 
-### [3. Urban Dictionary API](https://github.com/itsdennian/Urban-Dictionary-API) Day (8 - )
+### [3. Urban Dictionary API](https://github.com/itsdennian/Urban-Dictionary-API) Day (8 - 12)
 This is an unofficial API implementation of Urban Dictionary implemented in Go.
 
 <details>
