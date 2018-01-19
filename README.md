@@ -91,3 +91,18 @@ This is an unofficial API implementation of Urban Dictionary implemented in Go.
 
 </details>
 
+### [4. Insta Capture](https://github.com/itsdennian/Pythonista/blob/master/insta-capture.py) Day (13)
+This is small python script which lets you download Instagram posts and captions of any user, given that their account is public. 
+
+<details>
+<summary>Day wise breakdown</summary>
+
+<b>Day 13</b>
+<ul>
+<li>Implemented Selenium to visit instagram and check for various elements to determine the kind of profile, number of posts etc.</li>
+<li>Learnt to fetch image files using request library and save them using shutil</li>
+</ul>
+
+
+</details>
+
