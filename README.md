@@ -83,6 +83,11 @@ This is an unofficial API implementation of Urban Dictionary implemented in Go.
 <li>In the process of creating the JSON more usable</li>
 </ul>
 
+<b>Day 12</b>
+<ul>
+<li>Development completed.</li>
+</ul>
+
 
 </details>
 
